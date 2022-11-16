@@ -1,3 +1,4 @@
+<pre>
 1 [21:24:13] [Server thread/INFO]: Starting minecraft server version 1.12.2
 2 [21:24:13] [Server thread/INFO]: Loading properties
 3 [21:24:13] [Server thread/INFO]: Default game type: SURVIVAL
@@ -284,3 +285,4 @@
 284 [22:45:11] [Server thread/INFO]: Saving chunks for level 'world'/overworld
 285 [22:45:11] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
 286 [22:45:11] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
+</pre>
