@@ -1,0 +1,378 @@
+1 [02:09:00] [Server thread/INFO]: Starting minecraft server version 1.12.2
+2 [02:09:00] [Server thread/INFO]: Loading properties
+3 [02:09:00] [Server thread/INFO]: Default game type: SURVIVAL
+4 [02:09:00] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-2cf50f0-2b93d83 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+5 [02:09:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
+6 [02:09:00] [Server thread/INFO]: Using 4 threads for Netty based IO
+7 [02:09:00] [Server thread/INFO]: Debug logging is disabled
+8 [02:09:01] [Server thread/INFO]: Generating keypair
+9 [02:09:01] [Server thread/INFO]: Starting Minecraft server on *:16581
+10 [02:09:01] [Server thread/INFO]: Using epoll channel type
+11 [02:09:01] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+12 [02:09:02] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.40
+13 [02:09:03] [Server thread/INFO]: [FastAsyncWorldEdit] Loading FastAsyncWorldEdit v21.03.09-a5e5590-1285-22.3.8
+14 [02:09:03] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.2-DEV-null
+15 [02:09:03] [Server thread/INFO]: [NametagEdit] Loading NametagEdit v4.5.11
+16 [02:09:03] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.2.6
+17 [02:09:03] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+18 [02:09:03] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.7;dd00bb1
+19 [02:09:03] [Server thread/INFO]: [ChestCommands] Loading ChestCommands v3.1.4
+20 [02:09:03] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.7
+21 [02:09:03] [Server thread/INFO]: [Admin-GUI] Loading Admin-GUI v1.7.0
+21 [02:09:03] [Server thread/INFO]: [ChatEx] Loading ChatEx v2.5.2
+22 [02:09:03] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.19.7
+23 [02:09:03] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.2.2-SNAPSHOT;8eeab68
+24 [02:09:03] [Server thread/INFO]: [TitleManager] Loading TitleManager v2.3.6
+25 [02:09:03] [Server thread/INFO]: [AuthMe] Loading AuthMe v5.3.2-b1726
+[02:09:03] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.40
+[02:09:04] [Server thread/INFO]:         __    
+[02:09:04] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.40
+[02:09:04] [Server thread/INFO]:   |___ |      Running on Bukkit - CraftBukkit
+[02:09:04] [Server thread/INFO]: 
+[02:09:04] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[02:09:05] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[02:09:06] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[02:09:06] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[02:09:07] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3989ms)
+[02:09:07] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v21.03.09-a5e5590-1285-22.3.8
+[02:09:08] [Server thread/INFO]: ====== USE PAPER ======
+[02:09:08] [Server thread/INFO]: DOWNLOAD: https://ci.destroystokyo.com/job/PaperSpigot/
+[02:09:08] [Server thread/INFO]: GUIDE: https://www.spigotmc.org/threads/21726/
+[02:09:08] [Server thread/INFO]:  - This is only a recommendation
+[02:09:08] [Server thread/INFO]: ==============================
+[02:09:08] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[02:09:09] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[02:09:09] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[02:09:09] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[02:09:09] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[02:09:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:09:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:09:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:09:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:09:09] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[02:09:09] [Server thread/INFO]: Preparing level "world"
+[02:09:09] [Server thread/INFO]: -------- World Settings For [world] --------
+[02:09:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:09:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:09:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:09:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:09:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:09:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:09:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:09:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:09:09] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:09:09] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:09:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[02:09:09] [Server thread/INFO]: Mob Spawn Range: 4
+[02:09:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02:09:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[02:09:09] [Server thread/INFO]: Random Lighting Updates: false
+[02:09:09] [Server thread/INFO]: Structure Info Saving: true
+[02:09:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[02:09:09] [Server thread/INFO]: Max TNT Explosions: 100
+[02:09:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:09:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:09:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:09:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:09:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:09:09] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[02:09:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:09:09] [Server thread/INFO]: View Distance: 5
+[02:09:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:09:10] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[02:09:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:09:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:09:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:09:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:09:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:09:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:09:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:09:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:09:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:09:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:09:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[02:09:10] [Server thread/INFO]: Mob Spawn Range: 4
+[02:09:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02:09:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[02:09:10] [Server thread/INFO]: Random Lighting Updates: false
+[02:09:10] [Server thread/INFO]: Structure Info Saving: true
+[02:09:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[02:09:10] [Server thread/INFO]: Max TNT Explosions: 100
+[02:09:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:09:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:09:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:09:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:09:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:09:10] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[02:09:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:09:10] [Server thread/INFO]: View Distance: 5
+[02:09:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:09:10] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[02:09:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:09:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:09:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:09:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:09:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:09:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:09:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:09:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:09:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:09:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:09:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[02:09:10] [Server thread/INFO]: Mob Spawn Range: 4
+[02:09:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02:09:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[02:09:10] [Server thread/INFO]: Random Lighting Updates: false
+[02:09:10] [Server thread/INFO]: Structure Info Saving: true
+[02:09:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[02:09:10] [Server thread/INFO]: Max TNT Explosions: 100
+[02:09:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:09:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:09:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:09:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:09:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:09:10] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[02:09:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:09:10] [Server thread/INFO]: View Distance: 5
+[02:09:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:09:10] [Server thread/INFO]: Preparing start region for level 0 (Seed: -8271458868589727634)
+[02:09:11] [Server thread/INFO]: Preparing spawn area: 0%
+[02:09:12] [Server thread/INFO]: Preparing spawn area: 40%
+[02:09:13] [Server thread/INFO]: Preparing spawn area: 90%
+[02:09:14] [Server thread/INFO]: Preparing start region for level 1 (Seed: 5241485525014107018)
+[02:09:15] [Server thread/INFO]: Preparing spawn area: 64%
+[02:09:15] [Server thread/INFO]: Preparing start region for level 2 (Seed: 5241485525014107018)
+[02:09:16] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.2-DEV-null
+[02:09:16] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[02:09:16] [Server thread/INFO]: [NametagEdit] Enabling NametagEdit v4.5.11
+[02:09:16] [Server thread/INFO]: [NametagEdit] Found LuckPerms! Hooking in.
+[02:09:16] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.2.6
+[02:09:16] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.7;dd00bb1
+[02:09:16] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[02:09:17] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R1 as the Bukkit adapter
+[02:09:17] [Server thread/INFO]: [ChestCommands] Enabling ChestCommands v3.1.4
+[02:09:17] [Server thread/INFO]: [ChestCommands] PlaceholderAPI was found! External placeholders can be used.
+[02:09:17] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.7
+[02:09:17] [Server thread/INFO]: You are running a server with limited API functionality. EssentialsX will still work, but certain features may be disabled.
+[02:09:18] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[02:09:18] [Server thread/INFO]: No kits found to migrate.
+[02:09:18] [Server thread/INFO]: Loaded 853 items from items.csv.
+[02:09:18] [Server thread/INFO]: Using locale ru
+[02:09:18] [Server thread/INFO]: ServerListPingEvent: Spigot iterator API
+[02:09:18] [Server thread/INFO]: Starting Metrics. Opt-out using the global bStats config.
+[02:09:18] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[02:09:18] [Server thread/INFO]: Using Vault based permissions (LuckPerms)
+[02:09:18] [Server thread/INFO]: [Admin-GUI] Enabling Admin-GUI v1.7.0
+[02:09:19] [Server thread/INFO]: [ChatEx] Enabling ChatEx v2.5.2
+[02:09:19] [Server thread/INFO]: [ChatEx] Successfully hooked into: LuckPerms
+[02:09:19] [Server thread/INFO]: [ChatEx] Hooked into PlaceholderAPI
+[02:09:19] [Server thread/INFO]: [ChatEx] is now enabled!
+[02:09:19] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.19.7
+[02:09:19] [Server thread/INFO]: Starting Metrics. Opt-out using the global bStats config.
+[02:09:19] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.2.2-SNAPSHOT;8eeab68
+[02:09:19] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[02:09:19] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[02:09:19] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[02:09:19] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[02:09:19] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[02:09:19] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[02:09:19] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[02:09:19] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[02:09:19] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[02:09:19] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[02:09:19] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[02:09:19] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[02:09:19] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[02:09:19] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[02:09:19] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[02:09:19] [Server thread/INFO]: [WorldGuard] Loading region data...
+[02:09:19] [Server thread/INFO]: [TitleManager] Enabling TitleManager v2.3.6
+[02:09:21] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.3.2-b1726
+[02:09:22] [Server thread/INFO]: [AuthMe] SQLite driver loaded
+[02:09:22] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[02:09:22] [Server thread/INFO]: [AuthMe] Hooked into Vault!
+[02:09:22] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
+[02:09:22] [Thread-18/WARN]: [AuthMe] Could not download GeoLiteAPI database [UnknownHostException]: geolite.maxmind.com
+[02:09:22] [Server thread/WARN]: [AuthMe] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[02:09:22] [Server thread/INFO]: [AuthMe] Development builds are available on our jenkins, thanks to f14stelt.
+[02:09:22] [Server thread/INFO]: [AuthMe] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[02:09:22] [Server thread/INFO]: [AuthMe] AuthMe 5.3.2 build n.1726 correctly enabled!
+[02:09:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:09:23] [Server thread/INFO]: Done (13.926s)! For help, type "help" or "?"
+[02:09:23] [Server thread/INFO]: Starting GS4 status listener
+[02:09:23] [Query Listener #1/INFO]: Query running on 0.0.0.0:9898
+[02:09:24] [Server thread/INFO]: (FAWE) Plugin 'WorldGuard' found. Using it now.
+[02:09:24] [Server thread/INFO]: (FAWE) Detected class org.bukkit.event.block.BlockExplodeEvent
+[02:09:24] [Server thread/INFO]: [HolographicDisplays] Found a new version available: v3.0.0
+[02:09:24] [Server thread/INFO]: [HolographicDisplays] Download it on Bukkit Dev:
+[02:09:24] [Server thread/INFO]: [HolographicDisplays] dev.bukkit.org/bukkit-plugins/holographic-displays
+[02:09:24] [Server thread/INFO]: Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[02:09:24] [Craft Scheduler Thread - 4/INFO]: §6Получение информации о версии...
+[02:09:24] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[02:09:24] [Craft Scheduler Thread - 8/INFO]: [Vault] Checking for Updates ... 
+[02:09:24] [Craft Scheduler Thread - 2/INFO]: 
+[02:09:24] [Craft Scheduler Thread - 2/INFO]: []=====[Enabling AdminGUI]=====[]
+[02:09:24] [Craft Scheduler Thread - 2/INFO]: |
+[02:09:24] [Craft Scheduler Thread - 2/INFO]: | Information:
+[02:09:24] [Craft Scheduler Thread - 2/INFO]: |
+[02:09:24] [Craft Scheduler Thread - 2/INFO]: |   Name: AdminGUI
+[02:09:24] [Craft Scheduler Thread - 2/INFO]: |   Developer: Black1_TV
+[02:09:24] [Craft Scheduler Thread - 2/INFO]: |   Version: 1.7.0 (FREE)
+[02:09:24] [Craft Scheduler Thread - 2/INFO]: |   Premium: https://rabbit-company.com
+[02:09:24] [Craft Scheduler Thread - 2/INFO]: |
+[02:09:24] [Craft Scheduler Thread - 2/INFO]: | Support:
+[02:09:24] [Craft Scheduler Thread - 2/INFO]: |
+[02:09:24] [Craft Scheduler Thread - 2/INFO]: |   Discord: Crazy Rabbit#0001
+[02:09:24] [Craft Scheduler Thread - 2/INFO]: |   Mail: ziga.zajc007@gmail.com
+[02:09:24] [Craft Scheduler Thread - 2/INFO]: |   Discord: https://discord.gg/hUNymXX
+[02:09:24] [Craft Scheduler Thread - 2/INFO]: |
+[02:09:24] [Craft Scheduler Thread - 2/INFO]: []=====================================[]
+[02:09:24] [Craft Scheduler Thread - 2/INFO]: 
+[02:09:24] [Craft Scheduler Thread - 8/INFO]: [Vault] No new version available
+[02:09:24] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: statistic [2.0.1]
+[02:09:24] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: player [2.0.3]
+[02:09:24] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: vault [1.7.1]
+[02:09:24] [Server thread/INFO]: 3 placeholder hook(s) registered!
+[02:09:25] [Server thread/INFO]:  
+#------------------- Chest Commands Errors -------------------#
+1) The menu "kits.yml" doesn't have a name set.
+2) The menu "kits.yml" doesn't have a the number of rows set, it will have 6 rows by default.
+3) The menu "commands.yml" doesn't have a name set.
+4) The menu "commands.yml" doesn't have a the number of rows set, it will have 6 rows by default.
+5) The menu "donate.yml" doesn't have a name set.
+6) The menu "donate.yml" doesn't have a the number of rows set, it will have 6 rows by default.
+#-------------------------------------------------------------#
+[02:12:41] [User Authenticator #1/INFO]: UUID of player StevePro146 is 13ce513b-ee59-3c4c-998f-51171dc3b8c2
+[02:12:42] [Server thread/INFO]: StevePro146[/5.34.68.162:38721] logged in with entity id 326 at ([world]-3544528.699999988, 64.0, -5706576.699999988)
+[02:12:53] [Craft Scheduler Thread - 10/INFO]: [AuthMe] StevePro146 logged in!
+[02:27:58] [Server thread/INFO]: StevePro146 issued server command: /admin
+[02:29:21] [Server thread/INFO]: StevePro146 issued server command: //set 0
+[02:29:21] [Craft Scheduler Thread - 14/INFO]: Running 1.12 registry dumper!
+[02:29:21] [Craft Scheduler Thread - 14/INFO]: Using adapter: com.boydti.fawe.bukkit.v1_12.FaweAdapter_1_12@11efddd4
+[02:29:21] [Craft Scheduler Thread - 14/INFO]: =========================================
+[02:30:03] [Server thread/INFO]: StevePro146 issued server command: //set 0
+[02:30:29] [Server thread/INFO]: StevePro146 issued server command: //set 0
+[02:30:41] [Server thread/INFO]: StevePro146 issued server command: //set 0
+[02:30:46] [Server thread/INFO]: StevePro146 issued server command: //set 0
+[02:31:03] [Server thread/INFO]: StevePro146 issued server command: //set 5:2
+[02:31:47] [Server thread/INFO]: StevePro146 issued server command: //set sea_lantern
+[02:32:05] [Server thread/INFO]: StevePro146 issued server command: //set quart_block
+[02:32:18] [Server thread/INFO]: StevePro146 issued server command: //set quart_block
+[02:32:47] [Server thread/INFO]: StevePro146 issued server command: //set quart_block
+[02:32:52] [Server thread/INFO]: StevePro146 issued server command: //set quart_block
+[02:32:58] [Server thread/INFO]: StevePro146 issued server command: //set quart_block
+[02:49:59] [Server thread/INFO]: StevePro146 issued server command: /hd
+[02:50:27] [Server thread/INFO]: StevePro146 issued server command: /hd create dc1 &1&lLogs
+[02:50:54] [Server thread/INFO]: StevePro146 issued server command: /give StevePro146 command
+[02:51:08] [Server thread/INFO]: StevePro146 lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[02:51:08] [Server thread/INFO]: StevePro146 left the game
+[02:53:12] [User Authenticator #2/INFO]: UUID of player StevePro146 is 13ce513b-ee59-3c4c-998f-51171dc3b8c2
+[02:53:13] [Server thread/INFO]: StevePro146[/5.34.68.162:4526] logged in with entity id 2960 at ([world]-3544475.8084868714, 56.0, -5706524.557490798)
+[02:53:24] [Craft Scheduler Thread - 26/INFO]: [AuthMe] StevePro146 logged in!
+[02:54:24] [Server thread/INFO]: StevePro146 issued server command: /hd delete dc1
+[02:54:43] [Server thread/INFO]: StevePro146 issued server command: /hd create dc1 &2&lFTP
+[02:55:00] [Server thread/INFO]: [@] ftp://185.125.51.124:21/
+[02:56:08] [Server thread/INFO]: StevePro146 issued server command: /tellraw @p {"text":"dghyugsw"}
+[02:56:26] [Server thread/INFO]: StevePro146 issued server command: /tellraw @p {"text":"ftp://185.125.51.124:21/"}
+[02:59:10] [Server thread/INFO]: StevePro146 issued server command: /hd delete dc2 &6&lDataCenter
+[02:59:25] [Server thread/INFO]: StevePro146 issued server command: /hd create dc2 &6&lDataCenter
+[02:59:32] [Server thread/INFO]: StevePro146 issued server command: /hd create dc3 &6&lDataCenter
+[03:02:51] [Server thread/INFO]: StevePro146 lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[03:02:51] [Server thread/INFO]: StevePro146 left the game
+[03:03:00] [User Authenticator #3/INFO]: UUID of player StevePro146 is 13ce513b-ee59-3c4c-998f-51171dc3b8c2
+[03:03:00] [Server thread/INFO]: StevePro146[/5.34.68.162:40035] logged in with entity id 3420 at ([world]-3544474.300000012, 56.0, -5706532.093168661)
+[03:03:09] [Craft Scheduler Thread - 30/INFO]: [AuthMe] StevePro146 logged in!
+[03:03:29] [Server thread/INFO]: StevePro146 issued server command: //rg create Admins
+[03:03:33] [Server thread/INFO]: StevePro146 issued server command: /rg create Admins
+[03:03:49] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:04:02] [Server thread/INFO]: StevePro146 issued server command: /rg create DataCenter
+[03:04:16] [Server thread/INFO]: StevePro146 issued server command: /rg info
+[03:04:19] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:04:25] [Server thread/INFO]: StevePro146 issued server command: /rg info
+[03:04:30] [Server thread/INFO]: StevePro146 issued server command: /rg info admins
+[03:04:34] [Server thread/INFO]: StevePro146 issued server command: /rg info spawn
+[03:04:42] [Server thread/INFO]: StevePro146 issued server command: /rg info
+[03:04:50] [Server thread/INFO]: StevePro146 issued server command: /rg info DataCenter
+[03:05:05] [Server thread/INFO]: StevePro146 issued server command: /rg create DataCenter
+[03:05:15] [Server thread/INFO]: StevePro146 issued server command: /rg delete DataCenter
+[03:05:19] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:05:21] [Server thread/INFO]: StevePro146 issued server command: /rg delete datacenter
+[03:05:27] [Server thread/INFO]: StevePro146 issued server command: /rg create datacenter
+[03:05:33] [Server thread/INFO]: StevePro146 issued server command: /rg info DataCenter
+[03:05:49] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:05:57] [Server thread/INFO]: StevePro146 issued server command: /rg addOwners StevePro146 datacenter
+[03:06:22] [Server thread/INFO]: StevePro146 issued server command: /rg addowner StevePro146
+[03:06:29] [Server thread/INFO]: StevePro146 issued server command: /rg addowner StevePro146 datacenter
+[03:06:47] [Server thread/INFO]: StevePro146 issued server command: /rg addOwners datacenter StevePro146
+[03:06:54] [Server thread/INFO]: StevePro146 issued server command: /rg addOwners datacenter StevePro146
+[03:07:01] [Server thread/INFO]: StevePro146 issued server command: /rg addowner StevePro146
+[03:07:06] [Server thread/INFO]: StevePro146 issued server command: /rg addowner StevePro146 0 StevePro146
+[03:07:23] [Server thread/INFO]: StevePro146 issued server command: /rg addowner datacenter 0 StevePro146
+[03:07:32] [Server thread/INFO]: StevePro146 issued server command: /rg delete datacenter
+[03:07:40] [Server thread/INFO]: StevePro146 issued server command: /rg create datacenter 2
+[03:07:47] [Server thread/INFO]: StevePro146 issued server command: /rg create datacenter
+[03:07:49] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:07:52] [Server thread/INFO]: StevePro146 issued server command: /rg addowner StevePro146 0 StevePro146
+[03:07:56] [Server thread/INFO]: StevePro146 issued server command: /rg addowner StevePro146 StevePro146
+[03:08:06] [Server thread/INFO]: StevePro146 issued server command: /rg addowner datacenter StevePro146
+[03:08:11] [Server thread/INFO]: StevePro146 issued server command: /rg info
+[03:08:18] [Server thread/INFO]: StevePro146 issued server command: /rg info datacenter
+[03:08:19] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:08:54] [Server thread/INFO]: StevePro146 issued server command: /setwarp Admins
+[03:09:52] [Server thread/INFO]: StevePro146 issued server command: /exit
+[03:09:57] [Server thread/INFO]: StevePro146 issued server command: /kick
+[03:10:00] [Server thread/INFO]: StevePro146 issued server command: /kick StevePro146
+[03:10:22] [Server thread/INFO]: CONSOLE issued server command: /kick StevePro146
+[03:10:22] [Server thread/INFO]: StevePro146 lost connection: Выкинут с сервера.
+[03:10:22] [Server thread/INFO]: StevePro146 left the game
+[03:10:22] [Server thread/INFO]: §6Игрок§c Console §6выкинул§c StevePro146§6 за§c Выкинут с сервера.§6.
+[03:10:22] [Server thread/WARN]: handleDisconnection() called twice
+[03:11:43] [Server thread/INFO]: Stopping the server
+[03:11:43] [Server thread/INFO]: Stopping server
+[03:11:43] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.3.2-b1726
+[03:11:43] [Server thread/INFO]: [AuthMe] Waiting for 0 tasks to finish
+[03:11:43] [Server thread/INFO]: [AuthMe] AuthMe 5.3.2-b1726 disabled!
+[03:11:43] [Server thread/INFO]: [TitleManager] Disabling TitleManager v2.3.6
+[03:11:43] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.2.2-SNAPSHOT;8eeab68
+[03:11:43] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[03:11:43] [Server thread/INFO]: Disabling EssentialsSpawn v2.19.7
+[03:11:43] [Server thread/INFO]: [ChatEx] Disabling ChatEx v2.5.2
+[03:11:43] [Server thread/INFO]: [ChatEx] is now disabled!
+[03:11:43] [Server thread/INFO]: [Admin-GUI] Disabling Admin-GUI v1.7.0
+[03:11:43] [Server thread/INFO]: 
+[03:11:43] [Server thread/INFO]: []=====[Disabling AdminGUI]=====[]
+[03:11:43] [Server thread/INFO]: |
+[03:11:43] [Server thread/INFO]: | Information:
+[03:11:43] [Server thread/INFO]: |
+[03:11:43] [Server thread/INFO]: |   Name: AdminGUI
+[03:11:43] [Server thread/INFO]: |   Developer: Black1_TV
+[03:11:43] [Server thread/INFO]: |   Version: 1.7.0 (FREE)
+[03:11:43] [Server thread/INFO]: |   Premium: https://rabbit-company.com
+[03:11:43] [Server thread/INFO]: |
+[03:11:43] [Server thread/INFO]: | Support:
+[03:11:43] [Server thread/INFO]: |
+[03:11:43] [Server thread/INFO]: |   Discord: Crazy Rabbit#0001
+[03:11:43] [Server thread/INFO]: |   Mail: ziga.zajc007@gmail.com
+[03:11:43] [Server thread/INFO]: |   Discord: https://discord.gg/hUNymXX
+[03:11:43] [Server thread/INFO]: |
+[03:11:43] [Server thread/INFO]: []=====================================[]
+[03:11:43] [Server thread/INFO]: 
+[03:11:43] [Server thread/INFO]: Disabling Essentials v2.19.7
+[03:11:43] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[03:11:43] [Server thread/INFO]: [ChestCommands] Disabling ChestCommands v3.1.4
+[03:11:43] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.7;dd00bb1
+[03:11:43] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[03:11:43] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion: vault
+[03:11:43] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.2.6
+[03:11:43] [Server thread/INFO]: [NametagEdit] Disabling NametagEdit v4.5.11
+[03:11:43] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.2-DEV-null
+[03:11:43] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v21.03.09-a5e5590-1285-22.3.8
+[03:11:43] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.40
+[03:11:43] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[03:11:43] [Server thread/INFO]: [LuckPerms] Closing storage...
+[03:11:43] [Server thread/INFO]: [LuckPerms] Goodbye!
+[03:11:43] [Server thread/INFO]: Saving players
+[03:11:43] [Server thread/INFO]: Saving worlds
+[03:11:43] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[03:11:43] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[03:11:43] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end 
